@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+.highsocres{
+    display: inline-block;
+
+}
+
+.timer{
+    float: right;
+
+}
+
+header{
+    text-align: center;
+}
+
+.start-button{
+    background-color: rgb(55, 136, 241);
+    color: whitesmoke;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+li{
+    background-color:rgb(55, 136, 241);
+    color: whitesmoke;
+    list-style-type: circle;
+    width: 30%;
+    font-size: 24px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+
+    
+}
